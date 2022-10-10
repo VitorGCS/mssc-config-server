@@ -36,7 +36,7 @@
 			<version>6.3</version>
 		</dependency>
 
-		<!-- Security ->  basic security (USER/PASSWORD) -->
+		<!-- Security ->  basic Auth (USER/PASSWORD) -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
